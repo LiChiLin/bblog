@@ -221,10 +221,10 @@ header.sticky ul li a{
     
 }
 .countdown{
-    width: 40%;
+    width: 80%;
     top: 50%;
     font-size: 22px;
-    color: #FFFFFF;
+    color: pink;
     position: absolute;
     
 }
@@ -259,6 +259,34 @@ p{
     clear: none;
 
   }
+  .arrow{
+    width: 15%;
+    top: 20%;
+    position: absolute;
+    left: 8%;
+}
+  .dashboard{
+    width: 30%;
+    position: relative;
+    left: 25%;
+}
+.arrow2{
+    width: 12%;
+    top: 20%;
+    position: absolute;
+    left: 62%;
+}
+.task_management{
+    width: 25%;
+    position: relative;
+    left: 0%;
+}
+.healthcare{
+    width: 25%;
+    top: 42%;
+    position: absolute;
+    left: 58%;
+}
   .block6{
     position: relative;
     height: 1104.8px;
@@ -291,10 +319,19 @@ p{
 .block6-first2{
 
     width: 40%;
-    top: 30%;
+    top: 5%;
+    color: #000;
     font-size: 22px;
-    color: #FFFFFF;
     position: absolute;
+}
+.block5-first{
+    width: 28%;
+    top: 60%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #FFFFFF;
+    font-size: 15px;
+    position: absolute;
+    left: 28%;
 }
 
 .container{
