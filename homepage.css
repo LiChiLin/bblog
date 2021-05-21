@@ -25,10 +25,10 @@
 .block2_{
     position: absolute;
         top: 52%;
-        left: 16%;
+        left: 64%;
 
     height: 287px;
-    width: 930px;
+    width: 300px;
 }
 .block-title{
     color: whitesmoke;
