@@ -183,15 +183,16 @@ header.sticky ul li a{
     color: #FFFFFF;
     font-size: 22px;
     position: absolute;
+    font-family: 'Times New Roman', Times, serif;
     
 }
 .first2{
     width: 40%;
-    top: 30%;
+    top: 32%;
     font-size: 22px;
     color: #FFFFFF;
     position: absolute;
-    
+    font-family: 'Times New Roman', Times, serif;
 }
 .first3{
     width: 50%;
@@ -202,23 +203,38 @@ header.sticky ul li a{
     
 }
 .second{
-    width: 50%;
-    top: 5%;
+    width: 30%;
+    top: 1%;
     font-size: 22px;
     color: #FFFFFF;
     position: absolute;
     
 }
-.second2{
-    width: 50%;
-    top: 60%;
+.pdc{
+    width: 30%;
+    top: 1%;
+    left: 40%;
     font-size: 22px;
     color: #FFFFFF;
     position: absolute;
-    display: flex; /*疊下去*/
-    flex-direction: row; /*列 */
+    /* display: flex; 疊下去 */
+    /* flex-direction: row; 列 */
+}
+.high-school{
+    width: 70%;
+    top: 62%;
+    left: 0%;
+    font-size: 22px;
+    color: #FFFFFF;
+    position: absolute;
+    display: flex; 
+    /* 疊下去 */
+     flex-direction: row; 
+     /* 列 */
     
-    
+}
+.high-school2{
+    width: 35%;
 }
 .countdown{
     width: 80%;
@@ -228,16 +244,7 @@ header.sticky ul li a{
     position: absolute;
     
 }
-.pdc{
-    width: 50%;
-    align-items: flex-start;
-}
-.high-school{
-    width: 50%;
-    position: relative;
-    left: 5%;
-    align-items: flex-end;
-}
+
 p{
     padding-top: 10px;
 }
