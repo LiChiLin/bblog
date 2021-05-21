@@ -25,7 +25,7 @@
 .block2_{
     position: absolute;
         top: 52%;
-        left: 64%;
+        left: 16%;
 
     height: 287px;
     width: 930px;
@@ -219,6 +219,8 @@ header.sticky ul li a{
     position: absolute;
     /* display: flex; 疊下去 */
     /* flex-direction: row; 列 */
+    
+    
 }
 .high-school{
     width: 70%;
@@ -244,7 +246,6 @@ header.sticky ul li a{
     position: absolute;
     
 }
-
 p{
     padding-top: 10px;
 }
